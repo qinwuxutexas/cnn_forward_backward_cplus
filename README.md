@@ -1,5 +1,5 @@
 
-# A prototype of cnn forward and backward computtions for classification problem and coding in C++.
+# Library-free CNN implementation in C++ with forward/backward propagation and CPU parallelism..
 Qinwu Xu (Jan 2023) https://github.com/qinwuxutexas/cnn_forward_backward_cplus
 
 Notes:
